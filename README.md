@@ -12,13 +12,13 @@ Meu nome é **Silvana Rodrigues**, tenho 24 anos e sou estudante de **Análise e
 - 🏆 *Qualidades:* Sincera, direta e com foco em resultados, buscando sempre melhorar e contribuir positivamente em qualquer equipe de desenvolvimento.
 
 ### 🛠 Habilidades Técnicas
-- *Linguagens:* JavaScript, Python, HTML, CSS
-- *Frameworks:* React, Node.js, Bootstrap
-- *Ferramentas:* Git, GitHub, VS Code
+- **Linguagens:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Node.js, Bootstrap
+- **Ferramentas:** Git, GitHub, VS Code
 
 ### 📫 Contato
-- *E-mail:* r.odriigues85@hotmail.com
-- [*LinkedIn*] [Silvana Rodrigues](https://www.linkedin.com/in/silvanarodrigues03/)
+- **E-mail:** r.odriigues85@hotmail.com
+- [**LinkedIn**] [Silvana Rodrigues](https://www.linkedin.com/in/silvanarodrigues03/)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodriigues03&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Silvana Rodrigues GitHub Stats"/>
