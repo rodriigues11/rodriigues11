@@ -4,7 +4,7 @@
 
 ### Olá! 👋
 
-Meu nome é *Silvana Rodrigues, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)* na *Estácio*.
+Meu nome é **Silvana Rodrigues**, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Estácio**.
 
 ### Sobre Mim
 - 🎓 *Formação:* Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio, com interesse em desenvolvimento de software voltado para o impacto social.
