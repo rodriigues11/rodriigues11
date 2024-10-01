@@ -17,7 +17,7 @@ Meu nome é **Silvana Rodrigues**, tenho 24 anos e sou estudante de **Análise e
 - *Ferramentas:* Git, GitHub, VS Code
 
 ### 📫 Contato
-- *E-mail:* s.rodriigues37@gmail.com
+- *E-mail:* r.odriigues85@hotmail.com
 - [*LinkedIn*] [Silvana Rodrigues](https://www.linkedin.com/in/silvanarodrigues03/)
 
 <div align="center">
