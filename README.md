@@ -7,9 +7,9 @@
 Meu nome é **Silvana Rodrigues**, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Estácio**.
 
 ### Sobre Mim
-- 🎓 *Formação:* Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio, com interesse em desenvolvimento de software voltado para o impacto social.
-- 💻 *Interesses:* Desenvolvimento de websites e dashboards administrativos para terreiros, sempre buscando aprender e implementar novas tecnologias.
-- 🏆 *Qualidades:* Sincera, direta e com foco em resultados, buscando sempre melhorar e contribuir positivamente em qualquer equipe de desenvolvimento.
+- 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio, com interesse em desenvolvimento de software voltado para o impacto social.
+- 💻 **Interesses:** Desenvolvimento de websites e dashboards administrativos para terreiros, sempre buscando aprender e implementar novas tecnologias.
+- 🏆 **Qualidades:** Sincera, direta e com foco em resultados, buscando sempre melhorar e contribuir positivamente em qualquer equipe de desenvolvimento.
 
 ### 🛠 Habilidades Técnicas
 - **Linguagens:** JavaScript, Python, HTML, CSS
