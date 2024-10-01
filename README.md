@@ -21,8 +21,8 @@ Meu nome é **Silvana Rodrigues**, tenho 24 anos e sou estudante de **Análise e
 - [**LinkedIn**] [Silvana Rodrigues](https://www.linkedin.com/in/silvanarodrigues03/)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodriigues03&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Silvana Rodrigues GitHub Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriigues03&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodriigues11&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Silvana Rodrigues GitHub Stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriigues11&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
